@@ -1,0 +1,6 @@
+framework module Pods_PP_messenger {
+  umbrella header "Pods-PP_messenger-umbrella.h"
+
+  export *
+  module * { export * }
+}
